@@ -1,0 +1,12 @@
+# The standard stuff
+.settings/
+.project/
+.buildpath/
+.htaccess
+.idea
+
+# Android project
+bin/
+gen/
+local.properties
+lint.xml

@@ -47,3 +47,7 @@ Don't forget to add networking permissions to your **AndroidManifest.xml**
 <uses-permission android:name="android.permission.INTERNET" />
 <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
 ```
+
+Copyright
+-----------
+This project is open source under Apache License Version 2.0

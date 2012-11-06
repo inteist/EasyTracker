@@ -177,6 +177,7 @@ public class EasyTracker {
 		gaAccountId = parameterFetcher.getString("ga_api_key");
 		if (gaAccountId != null) {
 			gaEnabled = true;
+			gaEnabled = parameterFetcher.getBoolean("ga_enabled");;
 			gaDebug = parameterFetcher.getBoolean("ga_debug");
 			gaDryRun = parameterFetcher.getBoolean("ga_dryRun");
 			gaSampleRate = parameterFetcher.getInt("ga_sampleRate", 100);

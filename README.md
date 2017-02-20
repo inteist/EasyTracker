@@ -1,3 +1,6 @@
+
+# DEPRECATED (out of date)
+
 EasyTracker
 ===========
 
